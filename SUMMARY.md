@@ -32,6 +32,7 @@
        * 3.4.2 Zolertia Z1 mote
    * [3.5 Contiki 开始了！](3_5.35_contiki_kai_shi_le_ff01.md)
        * 3.5.1 解释 Hello World
+       * 3.5.2 解释 Makefile
    * [3.6 使用 Cooja 仿真器](3_6.36_shi_yong_cooja_fang_zhen_qi.md)
    * [3.7 创建一个新仿真](3_7.37_chuang_jian_yi_ge_xin_fang_zhen.md)
    * [3.8 向仿真中添加 mote](3_8.38_xiang_fang_zhen_zhong_tian_jia_mote.md)
