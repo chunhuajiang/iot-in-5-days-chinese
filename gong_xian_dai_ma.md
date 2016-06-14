@@ -8,10 +8,16 @@
 
 非常期望大家的积极参与，即使只翻译几页也能减小我的工作量！
 
-## 联系方法
+### 联系方法
 email: tidyjiang@163.com。
+
 QQ：1107953149
-提 issue
+
+在 Github 上提 issue：
+> https://github.com/tidyjiang8/IoT_In_5_Days_Chinese/issues/new
+
+咋 Gitbook 上提 discussion：
+> https://www.gitbook.com/book/tidyjiang8/-iot-in-5-days-chinese/discussions/new
 
 ----------
 # 详细步骤
