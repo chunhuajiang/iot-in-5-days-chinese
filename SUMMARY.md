@@ -20,7 +20,7 @@
    * [2.3 6LoWPAN](2_3.23_6lowpan.md)
    * [2.4 IPv6 接口标识符](2_4.24_ipv6_jie_kou_biao_shi_fu.md)
    * [2.5 头部压缩](2_5.25_tou_bu_ya_suo.md)
-   * 2.6 NDP 优化
+   * [2.6 NDP 优化](2_6.26_ndp_you_hua.md)
 * 第3章 Contiki
 * 第4章  Contiki 中的无线技术
 * 第5章 CoAP, MQTT 和 HTTP
