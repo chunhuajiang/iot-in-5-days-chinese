@@ -22,6 +22,7 @@
    * [2.5 头部压缩](2_5.25_tou_bu_ya_suo.md)
    * [2.6 NDP 优化](2_6.26_ndp_you_hua.md)
 * [第3章 Contiki](3.di_3_zhang_contiki.md)
+   * 3.1 安装 Contiki
 * 第4章  Contiki 中的无线技术
 * 第5章 CoAP, MQTT 和 HTTP
 
