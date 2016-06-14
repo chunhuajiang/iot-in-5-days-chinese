@@ -7,6 +7,7 @@
 * 第1章 IPv6
    * 1.1 一点点历史
    * 1.2 IPv6 的概念
+   * 1.3 IPv6 用来做什么？
 * 第2章 6LoWPAN
 * 第3章 Contiki
 * 第4章  Contiki 中的无线技术
