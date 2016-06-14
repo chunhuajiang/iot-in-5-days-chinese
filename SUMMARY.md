@@ -45,7 +45,7 @@
    * [4.1 准备设备](4_1.41_zhun_bei_she_bei.md)
        * [4.1.1 设备编址](4_1_1.411_she_bei_bian_zhi.md)
        * [4.1.2 设置带宽和信道](4_1_2.412_she_zhi_dai_kuan_he_xin_dao.md)
-       * 4.1.3 设置传输电源
+       * [4.1.3 设置传输电源](4_1_3.413_she_zhi_chuan_shu_dian_yuan.md)
        * 4.1.4 检查无线连接
    * [4.2 配置 MAC 层](4_2.42_pei_zhi_mac_ceng.md)
    * [4.3 IPv6 和路由](4_3.43_ipv6_he_lu_you.md)
