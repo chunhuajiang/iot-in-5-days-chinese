@@ -13,7 +13,7 @@
    * [1.5 Wireshark 的介绍](1_5.15_wireshark_de_jie_shao.md)
    * [1.6 IPv6 练习题](1_6.16_ipv6_lian_xi_ti.md)
    * [1.7 IPv6 编址](1_7.17_ipv6_bian_zhi.md)
-   * 1.8 将 IPv6 连接到互联网
+   * [1.8 将 IPv6 连接到互联网](1_8.18_jiang_ipv6_lian_jie_dao_hu_lian_wang.md)
 * [第2章 6LoWPAN](0_2.di_2_zhang_6lowpan.md)
 * 第3章 Contiki
 * 第4章  Contiki 中的无线技术
