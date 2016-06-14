@@ -1,5 +1,10 @@
 
 # 贡献代码
+可能很多人知道在 Github 如何贡献代码，但是不知道如何在 Gitbook 上贡献代码。所以我专门写了这篇详细的图文教程。
+
+其实思路很简单：将 Gitbook 与 Github 同步。
+
+----------
 
 先登录你的Github，然后找到我托管在 Github 上的项目：
 > [https://github.com/tidyjiang8/IoT_In_5_Days_Chinese](https://github.com/tidyjiang8/IoT_In_5_Days_Chinese)
