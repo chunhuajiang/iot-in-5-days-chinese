@@ -36,7 +36,7 @@
        * [3.5.3 在例子中添加一个 LED](3_5_3.353_zai_li_zi_zhong_tian_jia_yi_ge_led.md)
        * [3.5.4 打印消息到控制台](3_5_4.354_da_yin_xiao_xi_dao_kong_zhi_tai.md)
        * [3.5.5 添加按钮事件](3_5_5.355_tian_jia_an_niu_shi_jian.md)
-       * 3.5.6 定时器
+       * [3.5.6 定时器](3_5_6.356_ding_shi_qi.md)
        * 3.5.7 传感器
    * [3.6 使用 Cooja 仿真器](3_6.36_shi_yong_cooja_fang_zhen_qi.md)
    * [3.7 创建一个新仿真](3_7.37_chuang_jian_yi_ge_xin_fang_zhen.md)
