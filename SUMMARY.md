@@ -54,7 +54,7 @@
    * [4.3 IPv6 和路由](4_3.43_ipv6_he_lu_you.md)
        * [4.3.1 IPv6](4_3_1.431_ipv6.md)
        * [4.3.2 RPL](4_3_2.432_rpl.md)
-       * 4.3.3 设置一个 sniffer
+       * [4.3.3 设置一个 sniffer](4_3_3.433_she_zhi_yi_ge_sniffer.md)
        * 4.3.3 边界路由
    * [4.4 TCP 和 UDP 基础](4_4.44_tcp_he_udp_ji_chu.md)
 * 第5章 CoAP, MQTT 和 HTTP
