@@ -28,7 +28,7 @@
    * [3.2 测试 Contiki 安装环境](3_2.32_ce_shi_contiki_an_zhuang_huan_jing.md)
    * [3.3 Contiki 架构](3_3.33_contiki_jia_gou.md)
    * [3.4 在真实硬件上运行 Contiki](3_4.34_zai_zhen_shi_ying_jian_shang_yun_xing_contiki.md)
-       * 3.4.1 Zolertia Zoul 模块和 RE-Mote 开发平台
+       * [3.4.1 Zolertia Zoul 模块和 RE-Mote 开发平台](3_4_1.341_zolertia_zoul_mo_kuai_he_re_-_mote_kai_fa_ping.md)
        * 3.4.2 Zolertia Z1 mote
    * [3.5 Contiki 开始了！](3_5.35_contiki_kai_shi_le_ff01.md)
        * [3.5.1 解释 Hello World](3_5_1.351_jie_shi_hello_world.md)
