@@ -15,7 +15,7 @@
    * [1.7 IPv6 编址](1_7.17_ipv6_bian_zhi.md)
    * [1.8 将 IPv6 连接到互联网](1_8.18_jiang_ipv6_lian_jie_dao_hu_lian_wang.md)
 * [第2章 6LoWPAN](2.di2_zhang_6lowpan.md)
-   * 2.1 LoWPAN 概述
+   * [2.1 LoWPAN 概述](2_1.21_lowpan_gai_shu.md)
    * 2.2 LoWPAN 中 IP 的使用
    * 2.3 6LoWPAN
    * 2.4 IPv6 接口标识符
