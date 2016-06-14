@@ -19,7 +19,7 @@
    * [2.2 LoWPAN 中 IP 的使用](2_2.22_lowpan_zhong_ip_de_shi_yong.md)
    * [2.3 6LoWPAN](2_3.23_6lowpan.md)
    * [2.4 IPv6 接口标识符](2_4.24_ipv6_jie_kou_biao_shi_fu.md)
-   * 2.5 头部压缩
+   * [2.5 头部压缩](2_5.25_tou_bu_ya_suo.md)
    * 2.6 NDP 优化
 * 第3章 Contiki
 * 第4章  Contiki 中的无线技术
