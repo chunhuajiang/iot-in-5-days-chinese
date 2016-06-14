@@ -65,4 +65,5 @@
    * 5.1 CoAP 的例子
    * 5.2 MQTT 的例子
    * 5.3  实践：连接到一个真实世界的物联网平台（基于HTTP）
+   * 5.4 本地 Contiki 的 Ubidots IPv6 例子
 
