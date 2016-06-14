@@ -28,6 +28,7 @@
    * 3.4 在真实硬件上运行 Contiki
    * 3.5 Contiki 开始了！
    * 3.6 使用 Cooja 仿真器
+   * 3.7 创建一个新仿真
 * 第4章  Contiki 中的无线技术
 * 第5章 CoAP, MQTT 和 HTTP
 
