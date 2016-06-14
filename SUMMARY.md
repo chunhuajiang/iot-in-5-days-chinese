@@ -12,7 +12,7 @@
    * [1.4 关于网络的例子](1_4.14_guan_yu_wang_luo_de_li_zi.md)
    * [1.5 Wireshark 的介绍](1_5.15_wireshark_de_jie_shao.md)
    * [1.6 IPv6 练习题](1_6.16_ipv6_lian_xi_ti.md)
-   * 1.7 IPv6 编址
+   * [1.7 IPv6 编址](1_7.17_ipv6_bian_zhi.md)
    * 1.8 将 IPv6 连接到互联网
 * [第2章 6LoWPAN](0_2.di_2_zhang_6lowpan.md)
 * 第3章 Contiki
