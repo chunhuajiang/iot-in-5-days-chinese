@@ -48,6 +48,7 @@
        * [4.1.3 设置传输电源](4_1_3.413_she_zhi_chuan_shu_dian_yuan.md)
        * [4.1.4 检查无线连接](4_1_4.414_jian_cha_wu_xian_lian_jie.md)
    * [4.2 配置 MAC 层](4_2.42_pei_zhi_mac_ceng.md)
+       * 4.2.1 MAC 驱动
    * [4.3 IPv6 和路由](4_3.43_ipv6_he_lu_you.md)
    * [4.4 TCP 和 UDP 基础](4_4.44_tcp_he_udp_ji_chu.md)
 * 第5章 CoAP, MQTT 和 HTTP
