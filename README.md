@@ -4,13 +4,13 @@
 > Github 仓库地址：[https://github.com/tidyjiang8/IoT_In_5_Days_Chinese](https://github.com/tidyjiang8/IoT_In_5_Days_Chinese)
 
 
-------------
+
 # 简介
-**让你轻松入门 IPv6、IoT** ！
+让你轻松入门 IPv6、IoT ！
 
-**Contiki官方推荐书籍！**
+Contiki官方推荐书籍！
 
-**唯一一本以Contiki为背景的书籍！**
+唯一一本以Contiki为背景的书籍！
 
 
 # 在线阅读
