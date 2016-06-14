@@ -44,5 +44,6 @@
 * [第4章  Contiki 中的无线技术](4.di_4_zhang_contiki_zhong_de_wu_xian_ji_zhu.md)
    * 4.1 准备设备
    * 4.2 配置 MAC 层
+   * IPv6 和路由
 * 第5章 CoAP, MQTT 和 HTTP
 
