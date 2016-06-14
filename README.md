@@ -1,7 +1,6 @@
 
-本书翻译自开源书籍 《IoT In five days》。
+本书翻译自开源书籍 《[IoT In five days](https://github.com/tidyjiang8/IPv6-WSN-book)》。
 
-> [https://github.com/tidyjiang8/IPv6-WSN-book](https://github.com/tidyjiang8/IPv6-WSN-book)
 
 **Contiki官方推荐书籍！**
 
