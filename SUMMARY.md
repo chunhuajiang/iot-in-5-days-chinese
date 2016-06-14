@@ -20,6 +20,7 @@
    * 2.3 6LoWPAN
    * 2.4 IPv6 接口标识符
    * 2.5 头部压缩
+   * 2.6 NDP 优化
 * 第3章 Contiki
 * 第4章  Contiki 中的无线技术
 * 第5章 CoAP, MQTT 和 HTTP
