@@ -63,7 +63,7 @@
        * [4.4.4 什么是 TCP ?](4_4_4.444_shi_yao_shi_tcp.md)
 * [第5章 CoAP, MQTT 和 HTTP](5.di_5_zhang_coap_,_mqtt_he_http.md)
    * [5.1 CoAP 的例子](5_1.51_coap_de_li_zi.md)
-   * 5.2 MQTT 的例子
+   * [5.2 MQTT 的例子](5_2.52_mqtt_de_li_zi.md)
    * 5.3  实践：连接到一个真实世界的物联网平台（基于HTTP）
    * 5.4 本地 Contiki 的 Ubidots IPv6 例子
 
