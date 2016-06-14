@@ -72,5 +72,5 @@
    * [5.4 本地 Contiki 的 Ubidots IPv6 例子](5_4.54_ben_di_contiki_de_ubidots_ipv6_li_zi.md)
 * [附录](6.fu_lu.md)
    * [缩略语](6_1.suo_lve_yu.md)
-   * 参考书目
+   * [参考书目](6_2.can_kao_shu_mu.md)
 
