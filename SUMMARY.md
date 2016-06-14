@@ -17,6 +17,7 @@
 * [第2章 6LoWPAN](2.di2_zhang_6lowpan.md)
    * 2.1 LoWPAN 概述
    * 2.2 LoWPAN 中 IP 的使用
+   * 2.3 6LoWPAN
 * 第3章 Contiki
 * 第4章  Contiki 中的无线技术
 * 第5章 CoAP, MQTT 和 HTTP
