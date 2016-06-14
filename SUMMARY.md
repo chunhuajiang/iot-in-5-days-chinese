@@ -32,7 +32,7 @@
        * 3.4.2 Zolertia Z1 mote
    * [3.5 Contiki 开始了！](3_5.35_contiki_kai_shi_le_ff01.md)
        * [3.5.1 解释 Hello World](3_5_1.351_jie_shi_hello_world.md)
-       * 3.5.2 解释 Makefile
+       * [3.5.2 解释 Makefile](3_5_2.352_jie_shi_makefile.md)
        * 3.5.3 在例子中添加一个 LED
        * 3.5.4 打印消息到控制台
        * 3.5.5 添加按钮事件
