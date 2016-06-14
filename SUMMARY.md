@@ -64,7 +64,7 @@
 * [第5章 CoAP, MQTT 和 HTTP](5.di_5_zhang_coap_,_mqtt_he_http.md)
    * [5.1 CoAP 的例子](5_1.51_coap_de_li_zi.md)
        * [5.1.1 CoAP 的 API](5_1_1.511_coap_de_api.md)
-       * 5.1.2 实践：CoAP 服务器和 Copper
+       * [5.1.2 实践：CoAP 服务器和 Copper](5_1_2.512_shi_jian_ff1a_coap_fu_wu_qi_he_copper.md)
    * [5.2 MQTT 的例子](5_2.52_mqtt_de_li_zi.md)
        * 5.2.1 MQTT 的 API
        * 5.2.2 实践：MQTT 和 mosquitto
