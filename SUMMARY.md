@@ -42,5 +42,6 @@
    * [3.7 创建一个新仿真](3_7.37_chuang_jian_yi_ge_xin_fang_zhen.md)
    * [3.8 向仿真中添加 mote](3_8.38_xiang_fang_zhen_zhong_tian_jia_mote.md)
 * [第4章  Contiki 中的无线技术](4.di_4_zhang_contiki_zhong_de_wu_xian_ji_zhu.md)
+   * 4.1 准备设备
 * 第5章 CoAP, MQTT 和 HTTP
 
