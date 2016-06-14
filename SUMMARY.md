@@ -64,4 +64,5 @@
 * [第5章 CoAP, MQTT 和 HTTP](5.di_5_zhang_coap_,_mqtt_he_http.md)
    * 5.1 CoAP 的例子
    * 5.2 MQTT 的例子
+   * 5.3  实践：连接到一个真实世界的物联网平台（基于HTTP）
 
