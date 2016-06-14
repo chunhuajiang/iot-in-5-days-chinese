@@ -12,7 +12,7 @@
    * 1.5 IPv6 练习题
    * 1.7 IPv6 编址
    * 1.8 将 IPv6 连接到互联网
-* 第2章 6LoWPAN
+* [第2章 6LoWPAN](0_2.di_2_zhang_6lowpan.md)
 * 第3章 Contiki
 * 第4章  Contiki 中的无线技术
 * 第5章 CoAP, MQTT 和 HTTP
