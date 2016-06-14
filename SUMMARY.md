@@ -7,5 +7,5 @@
 * 第1章 IPv6
 * 第2章 6LoWPAN
 * 第3章 Contiki
-* 第4章 Wireless With Contiki
+* 第4章  Contiki中的无线技术
 
