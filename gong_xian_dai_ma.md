@@ -1,4 +1,3 @@
-
 # 贡献代码
 可能很多人知道在 Github 如何贡献代码，但是不知道如何在 Gitbook 上贡献代码。所以我专门写了这篇详细的图文教程。
 
@@ -8,7 +7,12 @@
 
 非常期望大家的积极参与，即使只翻译几页也能减小我的工作量！
 
-### 联系方法
+## 离线编辑
+离线编辑器下载链接：
+
+> https://www.gitbook.com/editor
+
+## 联系方法
 email: tidyjiang@163.com。
 
 QQ：1107953149
@@ -16,8 +20,12 @@ QQ：1107953149
 在 Github 上提 issue：
 > https://github.com/tidyjiang8/IoT_In_5_Days_Chinese/issues/new
 
-咋 Gitbook 上提 discussion：
+在 Gitbook 上提 discussion：
 > https://www.gitbook.com/book/tidyjiang8/-iot-in-5-days-chinese/discussions/new
+
+进入 gitter 聊天室：
+> https://gitter.im/tidyjiang8/IoT-In-5-Days-Discussion
+
 
 ----------
 # 详细步骤
