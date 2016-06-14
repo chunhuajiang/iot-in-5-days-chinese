@@ -50,6 +50,7 @@
    * [4.2 配置 MAC 层](4_2.42_pei_zhi_mac_ceng.md)
        * 4.2.1 MAC 驱动
        * 4.2.2 RDC 驱动
+       * 4.2.3 Framer 驱动
    * [4.3 IPv6 和路由](4_3.43_ipv6_he_lu_you.md)
    * [4.4 TCP 和 UDP 基础](4_4.44_tcp_he_udp_ji_chu.md)
 * 第5章 CoAP, MQTT 和 HTTP
