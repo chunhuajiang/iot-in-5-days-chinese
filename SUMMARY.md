@@ -45,5 +45,6 @@
    * 4.1 准备设备
    * 4.2 配置 MAC 层
    * IPv6 和路由
+   * 4.4 TCP 和 UDP 基础
 * 第5章 CoAP, MQTT 和 HTTP
 
