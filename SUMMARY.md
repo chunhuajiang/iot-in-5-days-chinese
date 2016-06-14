@@ -59,5 +59,6 @@
    * [4.4 TCP 和 UDP 基础](4_4.44_tcp_he_udp_ji_chu.md)
        * 4.4.1 UDP 的 API
        * 4.4.2 上手：UDP 的例子
+       * 4.4.3 上手：将 IPv6 UDP 网络连接到我们的主机
 * 第5章 CoAP, MQTT 和 HTTP
 
