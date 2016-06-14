@@ -4,7 +4,7 @@
    * 关于 Release
    * 关于本书
    * 物联网 IoT
-* 第1章 IPv6
+* [第1章 IPv6](0_1.di_1_zhang_ipv6.md)
    * 1.1 一点点历史
    * 1.2 IPv6 的概念
    * 1.3 IPv6 用来做什么？
