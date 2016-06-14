@@ -26,6 +26,7 @@
    * 3.2 测试 Contiki 安装环境
    * 3.3 Contiki 架构
    * 3.4 在真实硬件上运行 Contiki
+   * 3.5 Contiki 开始了！
 * 第4章  Contiki 中的无线技术
 * 第5章 CoAP, MQTT 和 HTTP
 
