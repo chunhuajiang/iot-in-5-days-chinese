@@ -25,7 +25,7 @@
    * [3.1 安装 Contiki](3_1.31_an_zhuang_contiki.md)
    * [3.2 测试 Contiki 安装环境](3_2.32_ce_shi_contiki_an_zhuang_huan_jing.md)
    * [3.3 Contiki 架构](3_3.33_contiki_jia_gou.md)
-   * 3.4 在真实硬件上运行 Contiki
+   * [3.4 在真实硬件上运行 Contiki](3_4.34_zai_zhen_shi_ying_jian_shang_yun_xing_contiki.md)
    * 3.5 Contiki 开始了！
    * 3.6 使用 Cooja 仿真器
    * 3.7 创建一个新仿真
