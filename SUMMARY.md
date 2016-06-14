@@ -5,6 +5,7 @@
    * 关于本书
    * 物联网 IoT
 * 第1章 IPv6
+   * 1.1 一点点历史
 * 第2章 6LoWPAN
 * 第3章 Contiki
 * 第4章  Contiki 中的无线技术
