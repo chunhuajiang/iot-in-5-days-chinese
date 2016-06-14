@@ -7,7 +7,7 @@
    * [物联网 IoT](0_3.wu_lian_wang_iot.md)
 * [第1章 IPv6](1.di1_zhang_ipv6_md.md)
    * [1.1 一点点历史](1_1.11_yi_dian_dian_li_shi.md)
-   * 1.2 IPv6 的概念
+   * [1.2 IPv6 的概念](1_2.12_ipv6_de_gai_nian.md)
    * 1.3 IPv6 用来做什么？
    * 1.4 关于网络的例子
    * 1.5 IPv6 练习题
