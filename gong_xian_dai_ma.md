@@ -4,8 +4,17 @@
 
 其实思路很简单：将 Gitbook 与 Github 同步。
 
-----------
+如果你也想参与翻译的过程，请先跟我联系，然后我会给你分配一部分内容，以免大家翻译重复了。
 
+非常期望大家的积极参与，即使只翻译几页也能减小我的工作量！
+
+## 联系方法
+email: tidyjiang@163.com。
+QQ：1107953149
+提 issue
+
+----------
+# 详细步骤
 先登录你的Github，然后找到我托管在 Github 上的项目：
 > [https://github.com/tidyjiang8/IoT_In_5_Days_Chinese](https://github.com/tidyjiang8/IoT_In_5_Days_Chinese)
 
