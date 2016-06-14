@@ -29,7 +29,7 @@
    * [3.5 Contiki 开始了！](3_5.35_contiki_kai_shi_le_ff01.md)
    * [3.6 使用 Cooja 仿真器](3_6.36_shi_yong_cooja_fang_zhen_qi.md)
    * [3.7 创建一个新仿真](3_7.37_chuang_jian_yi_ge_xin_fang_zhen.md)
-   * 3.8 向仿真中添加 mote
+   * [3.8 向仿真中添加 mote](3_8.38_xiang_fang_zhen_zhong_tian_jia_mote.md)
 * 第4章  Contiki 中的无线技术
 * 第5章 CoAP, MQTT 和 HTTP
 
