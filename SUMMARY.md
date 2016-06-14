@@ -22,7 +22,7 @@
    * [2.5 头部压缩](2_5.25_tou_bu_ya_suo.md)
    * [2.6 NDP 优化](2_6.26_ndp_you_hua.md)
 * [第3章 Contiki](3.di_3_zhang_contiki.md)
-   * 3.1 安装 Contiki
+   * [3.1 安装 Contiki](3_1.31_an_zhuang_contiki.md)
    * 3.2 测试 Contiki 安装环境
    * 3.3 Contiki 架构
    * 3.4 在真实硬件上运行 Contiki
