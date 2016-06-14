@@ -13,6 +13,9 @@
 ![](images/iot_in_five_days/others/Image 2.png)
 
 然后进入 Gitbook 主页，用你的 Github 账户登录 Gitbook。
+> https://www.gitbook.com
+
+
 
 ![](images/iot_in_five_days/others/Image 3.png)
 
