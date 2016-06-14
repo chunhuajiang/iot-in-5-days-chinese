@@ -1,10 +1,6 @@
 
 　　本书翻译自开源书籍 《[IoT In five days](https://github.com/tidyjiang8/IPv6-WSN-book)》。
 
-> Github 仓库地址：[https://github.com/tidyjiang8/IoT_In_5_Days_Chinese](https://github.com/tidyjiang8/IoT_In_5_Days_Chinese)
-
-
-
 # 简介
 　　让你轻松入门 IPv6、IoT ！
 
