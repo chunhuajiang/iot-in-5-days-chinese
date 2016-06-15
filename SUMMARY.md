@@ -59,7 +59,7 @@
        * [4.3.1 IPv6](4/4_3_1.ipv6.md)
        * [4.3.2 RPL](4/4_3_2.rpl.md)
        * [4.3.3 设置一个 sniffer](4/4_3_3.she_zhi_yi_ge_sniffer.md)
-       * [4.3.4 边界路由](4_3_4.434_bian_jie_lu_you.md)
+       * [4.3.4 边界路由](4/4_3_4.bian_jie_lu_you.md)
    * [4.4 TCP 和 UDP 基础](4/4_4.tcp_he_udp_ji_chu_md.md)
        * [4.4.1 UDP 的 API](4_4_1.441_udp_de_api.md)
        * [4.4.2 实践：UDP 的例子](4_4_2.442_shang_shou_ff1a_udp_de_li_zi.md)
