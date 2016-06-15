@@ -45,7 +45,7 @@
    * [3.6 使用 Cooja 仿真器](3_6.36_shi_yong_cooja_fang_zhen_qi.md)
    * [3.7 创建一个新仿真](3_7.37_chuang_jian_yi_ge_xin_fang_zhen.md)
    * [3.8 向仿真中添加 mote](3_8.38_xiang_fang_zhen_zhong_tian_jia_mote.md)
-* [第4章  Contiki 中的无线技术](4.di_4_zhang_contiki_zhong_de_wu_xian_ji_zhu.md)
+* [第4章  Contiki 中的无线技术](4/4.zhang_contiki_zhong_de_wu_xian_ji_zhu.md)
    * [4.1 准备设备](4_1.41_zhun_bei_she_bei.md)
        * [4.1.1 设备编址](4_1_1.411_she_bei_bian_zhi.md)
        * [4.1.2 设置带宽和信道](4_1_2.412_she_zhi_dai_kuan_he_xin_dao.md)
