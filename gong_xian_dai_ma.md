@@ -18,10 +18,10 @@ email: tidyjiang@163.com。
 QQ：1107953149
 
 在 Github 上提 issue：
-> https://github.com/tidyjiang8/IoT_In_5_Days_Chinese/issues/new
+> https://github.com/tidyjiang8/iot-in-5-days-chinese/issues/new
 
 在 Gitbook 上提 discussion：
-> https://www.gitbook.com/book/tidyjiang8/-iot-in-5-days-chinese/discussions/new
+> https://www.gitbook.com/book/tidyjiang8/iot-in-5-days-chinese/discussions/new
 
 进入 gitter 聊天室：
 > https://gitter.im/tidyjiang8/IoT-In-5-Days-Discussion
@@ -30,7 +30,7 @@ QQ：1107953149
 ----------
 # 详细步骤
 #### 先登录你的Github，然后找到我托管在 Github 上的项目：
-> [https://github.com/tidyjiang8/IoT_In_5_Days_Chinese](https://github.com/tidyjiang8/IoT_In_5_Days_Chinese)
+> [https://github.com/tidyjiang8/iot-in-5-days-chinese](https://github.com/tidyjiang8/iot-in-5-days-chinese)
 
 #### 点击右上角的 Fork 按钮
 
@@ -114,7 +114,7 @@ QQ：1107953149
 最后打个广告
 
 进入我的Github仓库，点击一下右边的 Star 和 watch 按钮。
-> [https://github.com/tidyjiang8/IoT_In_5_Days_Chinese](https://github.com/tidyjiang8/IoT_In_5_Days_Chinese)
+> [https://github.com/tidyjiang8/iot-in-5-days-chinese](https://github.com/tidyjiang8/iot-in-5-days-chinese)
 
 进入我的Gitbook仓库，点击一下右边的 Star 和 Subscribe 按钮。
 
