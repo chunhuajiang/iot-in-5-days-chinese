@@ -35,7 +35,7 @@
        * [3.4.1 Zolertia Zoul 模块和 RE-Mote 开发平台](3/3_4_1.zolertia_zoul_mo_kuai_he_re_-_mote_kai_fa_.md)
        * [3.4.2 Zolertia Z1 mote](3/3_4_2.zolertia_z1_mote_md.md)
    * [3.5 Contiki 开始了！](3/3_5.contiki_kai_shi_le_ff01_md.md)
-       * [3.5.1 解释 Hello World](3_5_1.351_jie_shi_hello_world.md)
+       * [3.5.1 解释 Hello World](3/3_5_1.jie_shi_hello_world_md.md)
        * [3.5.2 解释 Makefile](3_5_2.352_jie_shi_makefile.md)
        * [3.5.3 在例子中添加一个 LED](3_5_3.353_zai_li_zi_zhong_tian_jia_yi_ge_led.md)
        * [3.5.4 打印消息到控制台](3_5_4.354_da_yin_xiao_xi_dao_kong_zhi_tai.md)
