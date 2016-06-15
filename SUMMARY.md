@@ -42,7 +42,7 @@
        * [3.5.5 添加按钮事件](3_5_5.355_tian_jia_an_niu_shi_jian.md)
        * [3.5.6 定时器](3_5_6.356_ding_shi_qi.md)
        * [3.5.7 传感器](3_5_7.357_chuan_gan_qi.md)
-   * [3.6 使用 Cooja 仿真器](3_6.36_shi_yong_cooja_fang_zhen_qi.md)
+   * [3.6 使用 Cooja 仿真器](3/3_6.shi_yong_cooja_fang_zhen_qi_md.md)
    * [3.7 创建一个新仿真](3_7.37_chuang_jian_yi_ge_xin_fang_zhen.md)
    * [3.8 向仿真中添加 mote](3_8.38_xiang_fang_zhen_zhong_tian_jia_mote.md)
 * [第4章  Contiki 中的无线技术](4/4.zhang_contiki_zhong_de_wu_xian_ji_zhu.md)
