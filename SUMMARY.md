@@ -4,7 +4,7 @@
 * [贡献代码](gong_xian_dai_ma.md)
 * [前言](0/qianyan_md.md)
    * [关于 Release](0/01_guanyu_release_md.md)
-   * [关于本书](0_2.guan_yu_ben_shu.md)
+   * [关于本书](0/02_guanyu_ben_shu_md.md)
    * [物联网 IoT](0_3.wu_lian_wang_iot.md)
 * [第1章 IPv6](1/1.zhang_ipv6_md_md.md)
    * [1.1 一点点历史](1/1_1.yi_dian_dian_li_shi_md.md)
