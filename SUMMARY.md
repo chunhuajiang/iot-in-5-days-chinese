@@ -23,7 +23,7 @@
    * [2.2 LoWPAN 中的 IP](2/2_2.lowpan_zhong_ip_de_shi_yong_md.md)
    * [2.3 6LoWPAN](2/2_3.lowpan_md.md)
    * [2.4 IPv6 接口标识符](2/2_4.ipv6_jie_kou_biao_shi_fu_md.md)
-   * [2.5 头部压缩](2_5.25_tou_bu_ya_suo.md)
+   * [2.5 头部压缩](2/2_5.tou_bu_ya_suo_md.md)
    * [2.6 NDP 优化](2_6.26_ndp_you_hua.md)
 * [第3章 Contiki](3/3.zhang_contiki.md)
    * [3.1 安装 Contiki](3/3_1.an_zhuang_contiki.md)
