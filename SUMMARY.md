@@ -52,7 +52,7 @@
        * [4.1.3 设置传输电源](4/4_1_3.she_zhi_chuan_shu_dian_yuan.md)
        * [4.1.4 检查无线连接](4/4_1_4.jian_cha_wu_xian_lian_jie.md)
    * [4.2 配置 MAC 层](4/4_2.pei_zhi_mac_ceng.md)
-       * [4.2.1 MAC 驱动](4_2_1.421_mac_qu_dong.md)
+       * [4.2.1 MAC 驱动](4/4_2_1.mac_qu_dong.md)
        * [4.2.2 RDC 驱动](4_2_2.422_rdc_qu_dong.md)
        * [4.2.3 Framer 驱动](4_2_3.423_framer_qu_dong.md)
    * [4.3 IPv6 和路由](4/4_3.ipv6_he_lu_you.md)
