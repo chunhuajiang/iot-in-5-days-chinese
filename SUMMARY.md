@@ -5,7 +5,7 @@
 * [前言](0/qianyan_md.md)
    * [关于 Release](0/01_guanyu_release_md.md)
    * [关于本书](0/02_guanyu_ben_shu_md.md)
-   * [物联网 IoT](0_3.wu_lian_wang_iot.md)
+   * [物联网 IoT](0/03_wulian_wang_iot_md.md)
 * [第1章 IPv6](1/1.zhang_ipv6_md_md.md)
    * [1.1 一点点历史](1/1_1.yi_dian_dian_li_shi_md.md)
    * [1.2 IPv6 的概念](1/1_2.ipv6_de_gai_nian_md.md)
