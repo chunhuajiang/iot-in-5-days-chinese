@@ -1,14 +1,3 @@
-# 关于发布
------------
-本版《IoT in 5 days》的发布信息如下：
-
-版本：1.0
-
-日期：2016-02-07
-
- <center>
- <img src="images/iot_in_five_days/i/license.jpg"  align=center/>
- </center>
-
- 
-本书和源遵循```CC BY-NC-SA 4.0（the Creative Commons AttributionNonCommercial-ShareAlike 4.0 International ）[1]```协议条款。
+# 物联网 IoT
+----------
+物联网构建在一个复杂的连接数以亿计的设备和人类之间的网络之上，形成一个多技术、多协议、多平台的基础设施。物联网最显眼之处在于去创建一个智能的世界，在这样一个世界里，物质的，数字的和虚拟的东西被聚集在一起去创建智慧环境
