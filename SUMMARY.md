@@ -8,7 +8,7 @@
    * [物联网 IoT](0_3.wu_lian_wang_iot.md)
 * [第1章 IPv6](1/1.zhang_ipv6_md_md.md)
    * [1.1 一点点历史](1/1_1.yi_dian_dian_li_shi_md.md)
-   * [1.2 IPv6 的概念](1_2.12_ipv6_de_gai_nian.md)
+   * [1.2 IPv6 的概念](1/1_2.ipv6_de_gai_nian_md.md)
        * [1.2.1 IPv6 包](1_2_1.121_ipv6_bao.md)
        * [1.2.2 IPv6 编址](1_2_2.122_ipv6_bian_zhi.md)
        * [1.2.3 IPv6 网络前缀](1_2_3.123_ipv6_wang_luo_qian_zhui.md)
