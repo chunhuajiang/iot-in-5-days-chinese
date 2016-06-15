@@ -17,7 +17,7 @@
    * [1.5 Wireshark 的介绍](1/1_5.wireshark_de_jie_shao_md.md)
    * [1.6 IPv6 练习题](1/1_6.ipv6_lian_xi_ti_md.md)
    * [1.7 IPv6 编址练习](1/1_7.ipv6_bian_zhi_md.md)
-   * [1.8 将 IPv6 连接到因特网](1_8.18_jiang_ipv6_lian_jie_dao_hu_lian_wang.md)
+   * [1.8 将 IPv6 连接到因特网](1/1_8.jiang_ipv6_lian_jie_dao_hu_lian_wang_md.md)
 * [第2章 6LoWPAN](2.di2_zhang_6lowpan.md)
    * [2.1 LoWPAN 概述](2_1.21_lowpan_gai_shu.md)
    * [2.2 LoWPAN 中的 IP](2_2.22_lowpan_zhong_ip_de_shi_yong.md)
