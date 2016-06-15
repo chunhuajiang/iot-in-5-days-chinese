@@ -38,7 +38,7 @@
        * [3.5.1 解释 Hello World](3/3_5_1.jie_shi_hello_world_md.md)
        * [3.5.2 解释 Makefile](3/3_5_2.jie_shi_makefile_md.md)
        * [3.5.3 在例子中添加一个 LED](3/3_5_3.zai_li_zi_zhong_tian_jia_yi_ge_led_md.md)
-       * [3.5.4 打印消息到控制台](3_5_4.354_da_yin_xiao_xi_dao_kong_zhi_tai.md)
+       * [3.5.4 打印消息到控制台](3/3_5_4.da_yin_xiao_xi_dao_kong_zhi_tai_md.md)
        * [3.5.5 添加按钮事件](3_5_5.355_tian_jia_an_niu_shi_jian.md)
        * [3.5.6 定时器](3_5_6.356_ding_shi_qi.md)
        * [3.5.7 传感器](3_5_7.357_chuan_gan_qi.md)
