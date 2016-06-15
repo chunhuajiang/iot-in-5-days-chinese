@@ -28,7 +28,7 @@
 * [第3章 Contiki](3/3.zhang_contiki.md)
    * [3.1 安装 Contiki](3/3_1.an_zhuang_contiki.md)
        * [3.1.1 从源码安装](3/3_1_1.cong_yuan_ma_an_zhuang_md.md)
-       * [3.1.2 安装 Contiki 虚拟机](3_1_2.312_an_zhuang_contiki_xu_ni_ji.md)
+       * [3.1.2 安装 Contiki 虚拟机](3/3_1_2.an_zhuang_contiki_xu_ni_ji_md.md)
    * [3.2 测试 Contiki 安装环境](3/3_2.ce_shi_contiki_an_zhuang_huan_jing.md)
    * [3.3 Contiki 架构](3/3_3.contiki_jia_gou.md)
    * [3.4 在真实硬件上运行 Contiki](3/3_4.zaizhen_shi_ying_jian_shang_yun_xing_contiki.md)
