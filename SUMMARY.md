@@ -19,7 +19,7 @@
    * [1.7 IPv6 编址练习](1/1_7.ipv6_bian_zhi_md.md)
    * [1.8 将 IPv6 连接到因特网](1/1_8.jiang_ipv6_lian_jie_dao_hu_lian_wang_md.md)
 * [第2章 6LoWPAN](2/2.zhang_6lowpan_md.md)
-   * [2.1 LoWPAN 概述](2_1.21_lowpan_gai_shu.md)
+   * [2.1 LoWPAN 概述](2/2_1.lowpan_gai_shu_md.md)
    * [2.2 LoWPAN 中的 IP](2_2.22_lowpan_zhong_ip_de_shi_yong.md)
    * [2.3 6LoWPAN](2_3.23_6lowpan.md)
    * [2.4 IPv6 接口标识符](2_4.24_ipv6_jie_kou_biao_shi_fu.md)
