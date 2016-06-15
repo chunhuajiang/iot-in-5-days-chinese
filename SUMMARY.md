@@ -56,7 +56,7 @@
        * [4.2.2 RDC 驱动](4/4_2_2.rdc_qu_dong.md)
        * [4.2.3 Framer 驱动](4/4_2_3.framer_qu_dong.md)
    * [4.3 IPv6 和路由](4/4_3.ipv6_he_lu_you.md)
-       * [4.3.1 IPv6](4_3_1.431_ipv6.md)
+       * [4.3.1 IPv6](4/4_3_1.ipv6.md)
        * [4.3.2 RPL](4_3_2.432_rpl.md)
        * [4.3.3 设置一个 sniffer](4_3_3.433_she_zhi_yi_ge_sniffer.md)
        * [4.3.4 边界路由](4_3_4.434_bian_jie_lu_you.md)
