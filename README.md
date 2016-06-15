@@ -16,7 +16,7 @@
   
 # 离线下载
 
-　　**[PDF](https://www.gitbook.com/download/pdf/book/tidyjiang8/-iot-in-5-days-chinese)** | **[ePub](https://www.gitbook.com/download/epub/book/tidyjiang8/-iot-in-5-days-chinese)** | **[Mobi](https://www.gitbook.com/download/mobi/book/tidyjiang8/-iot-in-5-days-chinese)**
+　　**[PDF](https://www.gitbook.com/download/pdf/book/tidyjiang8/iot-in-5-days-chinese)** | **[ePub](https://www.gitbook.com/download/epub/book/tidyjiang8/iot-in-5-days-chinese)** | **[Mobi](https://www.gitbook.com/download/mobi/book/tidyjiang8/iot-in-5-days-chinese)**
 # 贡献代码
 　　个人的力量始终是弱小的，希望能找到小伙伴一起翻译！
 
