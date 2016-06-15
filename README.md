@@ -17,10 +17,8 @@
 # 离线下载
 
 　　**[PDF](https://www.gitbook.com/download/pdf/book/tidyjiang8/iot-in-5-days-chinese)** | **[ePub](https://www.gitbook.com/download/epub/book/tidyjiang8/iot-in-5-days-chinese)** | **[Mobi](https://www.gitbook.com/download/mobi/book/tidyjiang8/iot-in-5-days-chinese)**
-# 贡献代码
-　　个人的力量始终是弱小的，希望能找到小伙伴一起翻译！
 
-　　请参考：**[贡献代码](gong_xian_dai_ma.md)**
+
 
 # 翻译进度
 　　第 1 章已经完全翻译完毕、校正完毕。
@@ -42,3 +40,13 @@
 6/22 | 校正 第 4 章 |
 
 　　期待其他小伙伴们加入，一人一小节，翻译前言和第 5 章
+  
+# 贡献代码
+　　个人的力量始终是弱小的，希望能找到小伙伴一起翻译！
+
+　　请参考：**[贡献代码](gong_xian_dai_ma.md)**
+
+# 贡献者名单
+贡献者 | 贡献内容
+--- | --- 
+[tidyjiang8](https://github.com/tidyjiang8) | 翻译、校正第1、2、3、4章以及附录
