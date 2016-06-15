@@ -41,7 +41,7 @@
        * [3.5.4 打印消息到控制台](3/3_5_4.da_yin_xiao_xi_dao_kong_zhi_tai_md.md)
        * [3.5.5 添加按钮事件](3/3_5_5.tian_jia_an_niu_shi_jian_md.md)
        * [3.5.6 定时器](3/3_5_6.ding_shi_qi_md.md)
-       * [3.5.7 传感器](3_5_7.357_chuan_gan_qi.md)
+       * [3.5.7 传感器](3/3_5_7.chuan_gan_qi_md.md)
    * [3.6 使用 Cooja 仿真器](3/3_6.shi_yong_cooja_fang_zhen_qi_md.md)
    * [3.7 创建一个新仿真](3/3_7.chuang_jian_yi_ge_xin_fang_zhen_md.md)
    * [3.8 向仿真中添加 mote](3/3_8.xiang_fang_zhen_zhong_tian_jia_mote_md.md)
