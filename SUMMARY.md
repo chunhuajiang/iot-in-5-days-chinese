@@ -54,7 +54,7 @@
    * [4.2 配置 MAC 层](4/4_2.pei_zhi_mac_ceng.md)
        * [4.2.1 MAC 驱动](4/4_2_1.mac_qu_dong.md)
        * [4.2.2 RDC 驱动](4/4_2_2.rdc_qu_dong.md)
-       * [4.2.3 Framer 驱动](4_2_3.423_framer_qu_dong.md)
+       * [4.2.3 Framer 驱动](4/4_2_3.framer_qu_dong.md)
    * [4.3 IPv6 和路由](4/4_3.ipv6_he_lu_you.md)
        * [4.3.1 IPv6](4_3_1.431_ipv6.md)
        * [4.3.2 RPL](4_3_2.432_rpl.md)
