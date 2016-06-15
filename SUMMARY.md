@@ -49,7 +49,7 @@
    * [4.1 准备设备](4/4_1.zhun_bei_she_bei.md)
        * [4.1.1 设备编址](4/4_1_1.she_bei_bian_zhi.md)
        * [4.1.2 设置带宽和信道](4/4_1_2.she_zhi_dai_kuan_he_xin_dao.md)
-       * [4.1.3 设置传输电源](4_1_3.413_she_zhi_chuan_shu_dian_yuan.md)
+       * [4.1.3 设置传输电源](4/4_1_3.she_zhi_chuan_shu_dian_yuan.md)
        * [4.1.4 检查无线连接](4_1_4.414_jian_cha_wu_xian_lian_jie.md)
    * [4.2 配置 MAC 层](4/4_2.pei_zhi_mac_ceng.md)
        * [4.2.1 MAC 驱动](4_2_1.421_mac_qu_dong.md)
