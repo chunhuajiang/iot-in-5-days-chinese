@@ -118,5 +118,5 @@ QQ：1107953149
 
 进入我的Gitbook仓库，点击一下右边的 Star 和 Subscribe 按钮。
 
-> [https://www.gitbook.com/book/tidyjiang8/-iot-in-5-days-chinese/details](https://www.gitbook.com/book/tidyjiang8/-iot-in-5-days-chinese/details "")
+> [https://www.gitbook.com/book/tidyjiang8/iot-in-5-days-chinese/details](https://www.gitbook.com/book/tidyjiang8/iot-in-5-days-chinese "")
 
