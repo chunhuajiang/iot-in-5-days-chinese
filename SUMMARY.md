@@ -47,7 +47,7 @@
    * [3.8 向仿真中添加 mote](3_8.38_xiang_fang_zhen_zhong_tian_jia_mote.md)
 * [第4章  Contiki 中的无线技术](4/4.zhang_contiki_zhong_de_wu_xian_ji_zhu.md)
    * [4.1 准备设备](4/4_1.zhun_bei_she_bei.md)
-       * [4.1.1 设备编址](4_1_1.411_she_bei_bian_zhi.md)
+       * [4.1.1 设备编址](4/4_1_1.she_bei_bian_zhi.md)
        * [4.1.2 设置带宽和信道](4_1_2.412_she_zhi_dai_kuan_he_xin_dao.md)
        * [4.1.3 设置传输电源](4_1_3.413_she_zhi_chuan_shu_dian_yuan.md)
        * [4.1.4 检查无线连接](4_1_4.414_jian_cha_wu_xian_lian_jie.md)
