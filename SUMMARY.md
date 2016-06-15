@@ -20,7 +20,7 @@
    * [1.8 将 IPv6 连接到因特网](1_8.18_jiang_ipv6_lian_jie_dao_hu_lian_wang.md)
 * [第2章 6LoWPAN](2.di2_zhang_6lowpan.md)
    * [2.1 LoWPAN 概述](2_1.21_lowpan_gai_shu.md)
-   * [2.2 LoWPAN 中 IP 的使用](2_2.22_lowpan_zhong_ip_de_shi_yong.md)
+   * [2.2 LoWPAN 中的 IP](2_2.22_lowpan_zhong_ip_de_shi_yong.md)
    * [2.3 6LoWPAN](2_3.23_6lowpan.md)
    * [2.4 IPv6 接口标识符](2_4.24_ipv6_jie_kou_biao_shi_fu.md)
    * [2.5 头部压缩](2_5.25_tou_bu_ya_suo.md)
