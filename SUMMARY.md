@@ -10,7 +10,7 @@
    * [1.1 一点点历史](1/1_1.yi_dian_dian_li_shi_md.md)
    * [1.2 IPv6 的概念](1/1_2.ipv6_de_gai_nian_md.md)
        * [1.2.1 IPv6 包](1/1_2_1.ipv6_bao_md.md)
-       * [1.2.2 IPv6 编址](1_2_2.122_ipv6_bian_zhi.md)
+       * [1.2.2 IPv6 编址](1/1_2_2.ipv6_bian_zhi_md.md)
        * [1.2.3 IPv6 网络前缀](1_2_3.123_ipv6_wang_luo_qian_zhui.md)
    * [1.3 IPv6 用来做什么？](1_3.13_ipv6_yong_lai_zuo_shi_yao_ff1f.md)
    * [1.4 关于网络的例子](1_4.14_guan_yu_wang_luo_de_li_zi.md)
