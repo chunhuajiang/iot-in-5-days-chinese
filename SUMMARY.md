@@ -24,7 +24,7 @@
    * [2.3 6LoWPAN](2/2_3.lowpan_md.md)
    * [2.4 IPv6 接口标识符](2/2_4.ipv6_jie_kou_biao_shi_fu_md.md)
    * [2.5 头部压缩](2/2_5.tou_bu_ya_suo_md.md)
-   * [2.6 NDP 优化](2_6.26_ndp_you_hua.md)
+   * [2.6 NDP 优化](2/2_6.ndp_you_hua_md.md)
 * [第3章 Contiki](3/3.zhang_contiki.md)
    * [3.1 安装 Contiki](3/3_1.an_zhuang_contiki.md)
        * [3.1.1 从源码安装](3/3_1_1.cong_yuan_ma_an_zhuang_md.md)
