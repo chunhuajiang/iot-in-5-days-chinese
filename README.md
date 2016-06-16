@@ -50,3 +50,4 @@
 贡献者 | 贡献内容
 --- | --- 
 [tidyjiang8](https://github.com/tidyjiang8) | 翻译、校正第1、2、3、4章以及附录
+guruman2015 | 正在翻译第 5 章
