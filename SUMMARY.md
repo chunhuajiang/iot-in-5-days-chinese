@@ -73,7 +73,7 @@
        * [5.2.1 MQTT 的 API](5/5_2_1.mqttde_api.md)
        * [5.2.2 实践：MQTT 和 mosquitto](5/5_2_2.shi_jian_ff1a_mqtthe_mosquitto_md.md)
    * [5.3  实践：连接到一个真实世界的物联网平台（基于HTTP）](5/5_3.shi_jian_ff1a_lian_jie_dao_yi_ge_zhen_shi_shi.md)
-   * [5.4 本地 Contiki 的 Ubidots IPv6 例子](5/5_4.ben_di_contiki_de_ubidots_ipv6_li_zi.md)
+   * [5.4 本地 Contiki 的 Ubidots IPv6 示例](5/5_4.ben_di_contiki_de_ubidots_ipv6_li_zi.md)
 * [附录](6.fu_lu.md)
    * [缩略语](6/6.suolve_yu.md)
    * [参考书目](6/6_2.cankao_shu_mu.md)
