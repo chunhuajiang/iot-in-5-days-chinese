@@ -13,20 +13,6 @@
 　　**[Gitbook](https://tidyjiang8.gitbooks.io/iot-in-5-days-chinese/content/)** | **[Github](https://github.com/tidyjiang8/iot-in-5-days-chinese
 /blob/master/SUMMARY.md)**
  
-
-
-# 翻译进度
-　　第 1 章已经完全翻译完毕、校正完毕。
-  
-　　第 2、3 章已完成初稿，待整理、校正。
-  
-　　第 5 章正在翻译。
-  
-　　第 4 章还未翻译。
-  
-　　前言还未翻译。
-
-  
 # 贡献代码
 　　个人的力量始终是弱小的，希望能找到小伙伴一起翻译！
 
