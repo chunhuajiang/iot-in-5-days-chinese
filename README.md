@@ -10,8 +10,7 @@
 
 
 # 在线阅读
-　　**[Gitbook](https://tidyjiang8.gitbooks.io/iot-in-5-days-chinese/content/)** | **[Github](https://github.com/tidyjiang8/iot-in-5-days-chinese
-/blob/master/SUMMARY.md)**
+　　**[Gitbook](https://tidyjiang8.gitbooks.io/iot-in-5-days-chinese/content/)** | **[Github](https://github.com/tidyjiang8/iot-in-5-days-chinese/blob/master/SUMMARY.md)**
  
 # 贡献代码
 　　个人的力量始终是弱小的，希望能找到小伙伴一起翻译！
